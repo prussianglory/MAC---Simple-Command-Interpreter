@@ -1,0 +1,10 @@
+|UM| ls
+file3
+file5
+file6
+file1
+file_l
+|UM| cat file1
+|UM| cat file_l
+sampletext
+|UM| 

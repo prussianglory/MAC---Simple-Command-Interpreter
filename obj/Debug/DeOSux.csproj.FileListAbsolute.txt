@@ -1,0 +1,14 @@
+C:\Users\Вадим\source\repos\DeOSux\bin\Debug\DeOSux.exe.config
+C:\Users\Вадим\source\repos\DeOSux\bin\Debug\DeOSux.exe
+C:\Users\Вадим\source\repos\DeOSux\bin\Debug\DeOSux.pdb
+C:\Users\Вадим\source\repos\DeOSux\obj\Debug\DeOSux.csprojAssemblyReference.cache
+C:\Users\Вадим\source\repos\DeOSux\obj\Debug\DeOSux.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\DeOSux\obj\Debug\DeOSux.exe
+C:\Users\Вадим\source\repos\DeOSux\obj\Debug\DeOSux.pdb
+C:\Users\SVS1984\source\repos\DeOSux\bin\Debug\DeOSux.exe.config
+C:\Users\SVS1984\source\repos\DeOSux\bin\Debug\DeOSux.exe
+C:\Users\SVS1984\source\repos\DeOSux\bin\Debug\DeOSux.pdb
+C:\Users\SVS1984\source\repos\DeOSux\obj\Debug\DeOSux.csprojAssemblyReference.cache
+C:\Users\SVS1984\source\repos\DeOSux\obj\Debug\DeOSux.csproj.CoreCompileInputs.cache
+C:\Users\SVS1984\source\repos\DeOSux\obj\Debug\DeOSux.exe
+C:\Users\SVS1984\source\repos\DeOSux\obj\Debug\DeOSux.pdb
